@@ -6,7 +6,7 @@ Aplicar la estructura a una aplicacion hecha con kotlin usando MVVM
 # Data 📁
 Se gestionan aqui los componentes relacionados a la capa de datos.
     - Network 📁
-        - Clases Relacionadas a la comunicaicon de red.
+        - Clases Relacionadas a la comunicacion de red.
             - QuoteApiClient 🗎
             -QuoteService 🗎
     - QuoteRepository 🗎
